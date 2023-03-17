@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1637190660 source:c:\users\viaja\onedrive\햞ea de trabalho\redesocial\redesocial\fila.c
+	"fila.h"
+	<stdlib.h>
+	<strings.h>
+
+1637190663 c:\users\viaja\onedrive\햞ea de trabalho\redesocial\redesocial\fila.h
+
+1637190666 source:c:\users\viaja\onedrive\햞ea de trabalho\redesocial\redesocial\lista.c
+	"lista.h"
+	<stdlib.h>
+	<strings.h>
+
+1637190669 c:\users\viaja\onedrive\햞ea de trabalho\redesocial\redesocial\lista.h
+	"fila.h"
+	"pilhaEncadeada.h"
+
+1637190679 c:\users\viaja\onedrive\햞ea de trabalho\redesocial\redesocial\pilhaencadeada.h
+
+1637191991 source:c:\users\viaja\onedrive\햞ea de trabalho\redesocial\redesocial\operacoes.c
+	"operacoes.h"
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1637190672 c:\users\viaja\onedrive\햞ea de trabalho\redesocial\redesocial\operacoes.h
+	"lista.h"
+
+1637190676 source:c:\users\viaja\onedrive\햞ea de trabalho\redesocial\redesocial\pilhaencadeada.c
+	"pilhaEncadeada.h"
+	<stdlib.h>
+	<strings.h>
+
+1639236581 source:c:\users\viaja\onedrive\햞ea de trabalho\redesocial\redesocial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<strings.h>
+	"operacoes.h"
+
